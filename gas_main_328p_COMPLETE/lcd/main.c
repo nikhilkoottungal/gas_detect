@@ -520,7 +520,7 @@ int main(void)
 
 		station_sweep();		
 		alarm_check();
-		relay_check();
+//		relay_check();
 				
 		wdt_reset();
 	}
